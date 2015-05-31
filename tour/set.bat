@@ -1,2 +1,1 @@
-set GOPATH=G:\workspace\project.lab\go2\hello
-set PATH=%PATH%;C:\project-space\Git\bin
+set GOPATH=C:\project-space\git-repository\go-lab\tour

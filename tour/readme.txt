@@ -1,5 +1,5 @@
 public repository(?)에서 package을 다운로드 받아야 할때 
-	set GOPATH=G:\workspace\project.lab\go2\hello
+	set GOPATH=C:\project-space\git-repository\go-lab\tour
 
 git 명령어를 사용하기 위해 실행경로 설정
 	set PATH=%PATH%;C:\project-space\Git\bin
